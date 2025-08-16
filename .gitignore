@@ -1,0 +1,13 @@
+# Unreal Engine specific
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore localization files (such as ImportedDialogue and generated text files)
+*.uexp
+*.ubulk
+*.umap
+*.uasset
+*.ini
+*.log
