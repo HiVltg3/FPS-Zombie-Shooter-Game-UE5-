@@ -1,6 +1,8 @@
 
 # Zombie Game Based on Unreal Engine 5
 
+[![Watch the video](https://img.youtube.com/vi/ZvO5VxkBXj8/hqdefault.jpg)](https://youtu.be/ZvO5VxkBXj8)
+
 **Note**: This project was originally developed as part of my **graduation project**. Since it has been some time since the completion, I'm uploading it to **GitHub** purely for **showcase purposes**.
 
 ## Project Overview
